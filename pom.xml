@@ -15,9 +15,11 @@
         <module>learnquartz</module>
         <module>designPattern</module>
         <module>learnJVM</module>
-        <module>jvm</module>
+        <module>javaRelated</module>
+        <module>learnjava8</module>
+        <module>architect</module>
     </modules>
-    <name>Just Learn</name>
+    <firstName>Just Learn</firstName>
     <url>https://github.com/jsagittary/learn</url>
     <dependencies>
         <!-- 单元测试 -->
